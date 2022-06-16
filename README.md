@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### This is a personal code repository, used to store blogs and ideas.
 <!--
 **yue-chiu/yue-chiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
